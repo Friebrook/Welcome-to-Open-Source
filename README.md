@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/friebrook">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVRFQCanWsa1aJKisGC8RQiTgDNtvcais0pg&s" width="100px;" alt="Avinash"/>
+                    <br />
+                    <sub><b>Friebrook🍉</b></sub>
+               </a>
+            </td>
         </tr>
     </tbody>
 </table>
